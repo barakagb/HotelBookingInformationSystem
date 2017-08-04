@@ -1,0 +1,52 @@
+        
+                        
+                        
+                        input[type="text"],  input[type="password"]{
+                            
+                          display: block; 
+                            margin: 20px auto;
+                            border-radius:3px;
+                            outline: none;
+                            width: 300px;
+                            border: 1px solid #eee;
+                            
+                        
+                        }
+                        select{
+                            
+                            display: block; 
+                            position: relative;
+                            margin:20px 510px;
+                            border-radius:3px;
+                            outline: none;
+                            width: 300px;
+                            border: 1px solid #eee;
+                            
+                        
+                        }
+                        
+                        body{
+                            text-align: center;
+                        }
+                        
+                        a{
+                            text-decoration: none;
+                            color: gold;
+                        }
+                        a:hover{
+                            color: goldenrod;
+                        } 
+                        h1{
+                            color: grey;
+                            font-family:monospace;
+                        }
+                          #errMsg{
+                            text-align: center;
+                            
+                        }
+                        
+                        #admin_page{
+                            font-family: serif;
+                            background-color: whitesmoke;
+                        }
+                       
